@@ -1,0 +1,4 @@
+com\Selenium\WebDriver\ChromeDriverVersion.class
+com\Selenium\WebDriver\SeleniumDriverManager.class
+com\Selenium\WebDriver\WebDriverManager.class
+com\Selenium\WebDriver\ThreadLocalDriver.class
